@@ -4,3 +4,4 @@ Command to compile and run the code against the sample file:
 ```
 javac -cp src src/*.java && java -cp src PayoffApp < userInput.txt
 ```
+    
